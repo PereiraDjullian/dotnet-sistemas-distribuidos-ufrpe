@@ -167,6 +167,10 @@ A relação *happened-before* (`a → b`) é definida pela ordem dos eventos no 
 Espaço reservado para acrescentar capturas ou links reais após executar os projetos:
 
 - **Berkeley:** captura dos cinco terminais, mostrando os relógios antes/depois, a média e os ajustes.
-- **Lamport:** captura dos quatro terminais e da tabela global em P1, incluindo empates e a explicação de causalidade.
+- <img width="2246" height="1239" alt="image" src="https://github.com/user-attachments/assets/fe0a2b81-0dd1-486f-a7b6-6348d2667619" />
+- <img width="2258" height="1225" alt="image" src="https://github.com/user-attachments/assets/31c3b747-c2b8-4779-8c82-3eda68c6ed05" />
 
-As evidências podem ser colocadas em uma pasta `evidencias` na raiz e referenciadas aqui. Nenhuma captura é fornecida por este README.
+
+- **Lamport:** captura dos quatro terminais e da tabela global em P1, incluindo empates e a explicação de causalidade.
+- <img width="2325" height="1200" alt="image" src="https://github.com/user-attachments/assets/eec2cda5-c60e-42ad-a465-000a7f12ba53" />
+
